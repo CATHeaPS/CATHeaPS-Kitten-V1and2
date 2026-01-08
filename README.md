@@ -4,9 +4,9 @@
 
 This library contains **CATHeaPS**, a **C**entralisation **A**nalysis **T**ool for **Hea**t **P**ump **S**ystems.
 
-This repository contains the core logic and original methodologies established in the **Kitten** version, namely **Versions 1 and 2** of CATHeaPS. It provides the essential building blocks for a complete techno-economic analysis of 5th Generation District Heating and Cooling and alternative supply options for an area.
+This repository contains the core logic and original methodologies established in the **CATHeaPS-Kitten** version, namely **Versions 1 and 2** of CATHeaPS. It provides the essential building blocks for a complete techno-economic analysis of 5th Generation District Heating and Cooling and alternative supply options for an area.
 
-**CATHeaPS** is an open access modelling tool for a complete techno-economic analysis of 5th Generation District Heating and Cooling and alternative supply options for an area. These alternative supply options include centralised 4th Generation District Heating networks with decentralised Air Conditioning units for cooling, building/flat level reversible Air Source Heat Pumps and individual Gas Boilers and Air Conditioning units. CATHeaPS includes energy demand, energy supply, hydraulic and economic analysis for each considered system. The economic analysis follows the guidelines for heat network project assessment published by the UK government. The focus is on the UK market (prices, energy projections and CO2 contents), but the overall trends and relationships established can advise projects on other markets.  
+**CATHeaPS** is an open access modelling tool for a complete techno-economic analysis of 5th Generation District Heating and Cooling and alternative supply options for an area. These alternative supply options include centralised 4th Generation District Heating networks with decentralised Air Conditioning units for cooling, building/flat level reversible Air Source Heat Pumps and individual Gas Boilers and Air Conditioning units. **CATHeaPS-Kitten** includes energy demand, energy supply, hydraulic and economic analysis for each considered system. The economic analysis follows the guidelines for heat network project assessment published by the UK government. The focus is on the UK market (prices, energy projections and CO2 contents), but the overall trends and relationships established can advise projects on other markets.  
 
 ![Logo!](Miscellaneous/CATHeaPS%20Logo.JPG)
 
@@ -47,19 +47,21 @@ Furthermore, all networks studied are simplified and linear. The incorporation o
 
 # Relevant publication and citation of the dataset
 
-The dataset is published in University of Glasgow’s Enlighten Repository. It should be cited as:
+The **CATHeaPS-Kitten** dataset is published in University of Glasgow’s Enlighten Repository. It should be cited as:
 
 Angelidis, O. (2023); CATHeaPS; GitHub; https://researchdata.gla.ac.uk/1638; Retrieved: 2025-01-08.
 
-For a more detailed analysis of the methodology of **CATHeaPS** and a use case for heating only systems, the following publication in the scientific journal Heliyon can be visited:
+For a more detailed analysis of the methodology of **CATHeaPS-Kitten** and a use case for heating only systems, the following publication in the scientific journal Heliyon can be visited:
 
 Angelidis, Orestis et al., Heliyon, Volume 11, Issue 1, e41396. Openly available at: https://www.cell.com/heliyon/fulltext/S2405-8440(24)17427-0
 
-For a complete understanding of **CATHeaPS** along with economic and environmental analyses on heating and cooling districts, and an example of its use in a real world case study in Clyde Gateway, the PhD thesis of Orestis Angelidis can be advised. The thesis will become openly available in spring 2025.
+For a complete understanding of **CATHeaPS-Kitten** along with economic and environmental analyses on heating and cooling districts, and an example of its use in a real world case study in Clyde Gateway, the PhD thesis of Orestis Angelidis can be advised:
+
+Angelidis, O., 2025. 5th generation district heating and cooling for holistic energy system decarbonisation: Novel system designs and detailed techno-economic assessment (PhD). University of Glasgow. Openly available at: https://doi.org/10.5525/gla.thesis.84916
 
 # Aknowledgements
 
-**CATHeaPS** is developed by Orestis Angelidis with the support of Anastasia Ioannou, Daniel Friedrich, Alan Thomson, and Gioia Falcone as part of his industrial PhD program. 
+**CATHeaPS-Kitten** is developed by Orestis Angelidis with the support of Anastasia Ioannou, Daniel Friedrich, Alan Thomson, and Gioia Falcone as part of his industrial PhD program. 
 
 This work is supported by the UK Engineering and Physical Sciences Research Council (EPSRC) grant EP/T023112/1: INTEGRATE (Integrating seasoNal Thermal storagE with multiple enerGy souRces to decArobonise Thermal Energy). It is also partially funded by the Energy Technology Partnership (ETP), Ramboll (including contributions from both Ramboll Foundation [grant No. 2020-101] and Ramboll UK) and the University of Glasgow under grant agreement ETP 189.
 
