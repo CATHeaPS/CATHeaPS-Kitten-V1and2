@@ -4,6 +4,8 @@
 
 This library contains **CATHeaPS**, a **C**entralisation **A**nalysis **T**ool for **Hea**t **P**ump **S**ystems.
 
+This repository contains the core logic and original methodologies established in the **Kitten** version, namely **Versions 1 and 2** of CATHeaPS. It provides the essential building blocks for a complete techno-economic analysis of 5th Generation District Heating and Cooling and alternative supply options for an area.
+
 **CATHeaPS** is an open access modelling tool for a complete techno-economic analysis of 5th Generation District Heating and Cooling and alternative supply options for an area. These alternative supply options include centralised 4th Generation District Heating networks with decentralised Air Conditioning units for cooling, building/flat level reversible Air Source Heat Pumps and individual Gas Boilers and Air Conditioning units. CATHeaPS includes energy demand, energy supply, hydraulic and economic analysis for each considered system. The economic analysis follows the guidelines for heat network project assessment published by the UK government. The focus is on the UK market (prices, energy projections and CO2 contents), but the overall trends and relationships established can advise projects on other markets.  
 
 ![Logo!](Miscellaneous/CATHeaPS%20Logo.JPG)
